@@ -1,0 +1,8 @@
+{
+	"cordova":
+	[
+	 {
+	 "name":"cordova-cronapi-firebase"
+	 }
+	]
+}
