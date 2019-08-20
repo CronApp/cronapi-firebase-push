@@ -1,10 +1,10 @@
 {
   "name": "cronapi-firebase-push",
-  "version":"0.0.2",
+  "version":"1.0.0",
   "authors": [
-    "Rodrigo Reis <digo.santos.reis@gmail.com>"
+    "Cronapp Studio"
   ],
-  "description": "Firebase push notification dependency from CronApp",
+  "description": "Firebase push notification dependency from Cronapp",
   "main": "",
   "license": "MIT",
   "homepage": "",
