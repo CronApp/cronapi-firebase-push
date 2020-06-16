@@ -1,8 +1,13 @@
 {
-	"cordova":
-	[
-	 {
-	 "name":"https://github.com/arnesson/cordova-plugin-firebase.git#pull/1011/head"
-	 }
-	]
+  "cordova": [
+    {
+      "name": "cordova-plugin-firebasex"
+    },
+    {
+      "name": "cordova-plugin-androidx"
+    },
+    {
+      "name": "cordova-plugin-androidx-adapter"
+    }
+  ]
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cronapi-firebase-push",
+  "version": "2.0.0",
+  "authors": [
+    "Cronapp Studio"
+  ],
+  "description": "Firebase push notification dependency from Cronapp",
+  "dependencies": {
+    
+  }
+}
