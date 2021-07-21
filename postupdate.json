@@ -1,7 +1,8 @@
 {
   "cordova": [
     {
-      "name": "cordova-plugin-firebasex"
+      "name": "cordova-plugin-firebasex",
+      "version": "latest-cli"
     },
     {
       "name": "cordova-plugin-androidx"
