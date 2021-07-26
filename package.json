@@ -1,6 +1,6 @@
 {
   "name": "cronapi-firebase-push",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "authors": [
     "Cronapp Studio"
   ],
@@ -10,7 +10,5 @@
     "url": "git+https://github.com/CronApp/cronapi-firebase-push.git"
   },
   "homepage": "https://github.com/CronApp/cronapi-firebase-push#readme",
-  "dependencies": {
-    
-  }
+  "dependencies": {}
 }
