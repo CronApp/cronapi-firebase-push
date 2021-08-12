@@ -3,12 +3,6 @@
     {
       "name": "cordova-plugin-firebasex",
       "version": "latest-cli"
-    },
-    {
-      "name": "cordova-plugin-androidx"
-    },
-    {
-      "name": "cordova-plugin-androidx-adapter"
     }
   ]
 }
